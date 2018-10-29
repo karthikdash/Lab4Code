@@ -1,0 +1,31 @@
+patching file Documentation/trace/events.txt
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file Documentation/trace/events.txt.rej
+patching file Documentation/trace/ftrace.txt
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file Documentation/trace/ftrace.txt.rej
+The next patch would create the file Documentation/trace/histogram.txt,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file arch/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/Kconfig.rej
+patching file arch/alpha/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/alpha/include/asm/spinlock_types.h.rej
+patching file arch/arm/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/arm/Kconfig.rej
+
